@@ -1,8 +1,9 @@
 # Pizza-Sales---SQL
+#Detailed Analysis of Pizzahut based on SQL
 
 All of these Questions are based level  start with Basic -> Intermediate -> Advanced
 
-With the help of these Questions we have a Detile Analysis and use some of the major and complicated funtion of SQL . 
+With the help of these Questions we have a Detailed Analysis and use some of the major and complicated funtion of SQL . 
 
 Basic:
 Retrieve the total number of orders placed.
