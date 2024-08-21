@@ -1,5 +1,5 @@
 # Pizza-Sales---SQL
-#Detailed Analysis of Pizzahut based on SQL
+Detailed Analysis of Pizzahut based on SQL
 
 All of these Questions are based level  start with Basic -> Intermediate -> Advanced
 
